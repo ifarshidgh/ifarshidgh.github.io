@@ -21,3 +21,5 @@ Since summer 2021, I am a research intern at [The University of Manchester](http
 I am part of [Prof. Amir Daneshgar](http://mathsci.sharif.ir/faculties/daneshgar/) research group at the SUT. I do some numerical experiments to evaluate the connectivity of random regular graphs with respect to the min-cut problem.
 
 Besides, I study the sphere packing problem in Hamming space using the loop correction theory of graphical models in the context of cavity method under the supervision of [Dr. Saman Moghimi](http://physics.sharif.ir/~web/saman-moghimi-araghi/) from SUT and [Dr. Abolfazl Ramezanpour](https://sites.google.com/site/abolfazlramezanpour) from the Shiraz University. 
+
+You can find my CV, [here](/files/CV.pdf)
