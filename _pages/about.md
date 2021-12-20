@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Parsa Rangriz"
-<!-- excerpt: "Abou" -->
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
