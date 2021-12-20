@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Parsa Rangriz. I am currently a senior undergraduate student at the [Department of Physics of Sharif University of Technology](physics.sharif.edu).
+This is Parsa Rangriz. I am currently a senior undergraduate student at the [Department of Physics of Sharif University of Technology](https://physics.sharif.edu).
 
 My research interests include:
 - Quantum Information Theory
