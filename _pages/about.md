@@ -22,4 +22,4 @@ I am part of [Prof. Amir Daneshgar](http://mathsci.sharif.ir/faculties/daneshgar
 
 Besides, I study the sphere packing problem in Hamming space using the loop correction theory of graphical models in the context of cavity method under the supervision of [Dr. Saman Moghimi](http://physics.sharif.ir/~web/saman-moghimi-araghi/) from SUT and [Dr. Abolfazl Ramezanpour](https://sites.google.com/site/abolfazlramezanpour) from the Shiraz University. 
 
-You can find my CV, [here](/files/CV.pdf) (Last Update: Dec 20, 2021)
+You can find my CV, [here](/files/CV.pdf) (Last Update: Dec 25, 2021)
