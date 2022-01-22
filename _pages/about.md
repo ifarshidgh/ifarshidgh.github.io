@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is Parsa Rangriz. I am currently a senior undergraduate physics and mathematics student at the [Sharif University of Technology](https://physics.sharif.edu) (SUT).
+This is Farshid Gholami. I'm an undergraduate physics student at <body>
+  <p style="color:red;">Red paragraph text<[Sharif University of Technology](http://physics.sharif.ir/~web/)/p>
+</body> (SUT).
 
-My research interests:
+My research interests are:
 - Quantum Information Theory
 - Quantum Thermodynamics
 - Information Theory and Optimization
