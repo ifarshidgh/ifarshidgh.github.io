@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Farshid Gholami. I'm an undergraduate physics student at <body>
-  <p style="color:red;">Red paragraph text<[Sharif University of Technology](http://physics.sharif.ir/~web/)/p>
-</body> (SUT).
+This is Farshid Gholami. I'm an undergraduate physics student at [Sharif University of Technology](http://physics.sharif.ir/~web/) (SUT).
 
 My research interests are:
 - Quantum Information Theory
