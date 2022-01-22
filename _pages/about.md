@@ -16,6 +16,5 @@ My research interests are:
 - Cosmology
 - Observational Cosmology
 
-You can find my CV, [here](/files/CV.pdf) (Last Update: Jan 22, 2022)
-
-<span style="color:red">some **This is Red Bold.** text</span>
+You can find my CV, 
+<span style="color:red">[here](/files/CV.pdf)</span> (Last Update: Jan 22, 2022)
