@@ -16,4 +16,4 @@ My research interests are:
 - Cosmology
 - Observational Cosmology
 
-You can find my CV, [here]. (Farshid Gholami CV.pdf) (Last Update: Jan 28, 2022)
+You can find my CV, [here](Farshid Gholami CV.pdf). (Last Update: Jan 28, 2022)
